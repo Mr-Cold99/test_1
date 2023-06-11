@@ -11,7 +11,7 @@ public class Data_types {
         c=a+b;
         JOptionPane.showMessageDialog(null, "Suma a&b "+c);
         c=a-b;
-        JOptionPane.showMessageDialog(null,"Rrznytsa a&b "+c);
+        JOptionPane.showMessageDialog(null,"Riznytsa a&b "+c);
         c=a*b;
         JOptionPane.showMessageDialog(null,"Dobutok a&b "+c);
         double d=a,e=b;
