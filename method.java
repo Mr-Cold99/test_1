@@ -9,6 +9,7 @@ public class method {
         String inchar;
         char symb;
 
+
         System.out.println("Введіть число:");
         var=input.nextInt();
         System.out.println("Введіть степінь:");
