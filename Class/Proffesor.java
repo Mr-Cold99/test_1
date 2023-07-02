@@ -4,7 +4,7 @@ public class Proffesor {
     private String nun;
     private String cognonen;
     private int centuru;
-    Student std=new Student("Lev",35,"Stepsnovych");
+    Student std=new Student();
     public Proffesor(){
 
     }
